@@ -1,0 +1,10 @@
+```text
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+PyMuPDF
+ollama
+nbformat
+ipykernel
