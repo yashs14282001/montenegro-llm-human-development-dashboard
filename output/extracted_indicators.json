@@ -1,0 +1,19 @@
+Here is the extracted numerical development indicators in JSON format:
+
+{
+  "country": "Montenegro",
+  "report_year": 2009,
+  "indicators": {
+    "population": 625000,
+    "life_expectancy": 72.7,
+    "adult_literacy_rate": 97.7,
+    "gross_enrolment_rate": 80.7,
+    "GDP_per_capita_PPP": 9934.6,
+    "HDI_rank": 64/179,
+    "HDI_value": null,
+    "poverty_rate": 11,
+    "infant_mortality_rate": 11
+  }
+}
+
+Note that some indicators, such as HDI value and life expectancy for males and females, are not explicitly mentioned in the provided text. I have filled those with `null` values as per your instruction.

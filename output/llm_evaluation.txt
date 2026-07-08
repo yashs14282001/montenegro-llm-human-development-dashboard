@@ -1,0 +1,6 @@
+ Criteria | Score | Comments
+---------|-------|---------------
+Completeness | 4 | The extracted output is largely complete but misses some details such as the specific years for certain indicators (e.g., life expectancy, infant mortality rate) and does not include all the indicators mentioned in the source text (e.g., number of doctors per 100,000 inhabitants, access to information, etc.).
+Consistency | 4 | The extracted output is consistent with the source text in terms of the reported numerical indicators for Montenegro's development, but the formatting and organization are different.
+Factual alignment with source text | 5 | The factual data presented in the extracted output is accurate and aligned with the data provided in the source text.
+Usefulness for dashboard visualisation | 4 | The extracted output provides a useful summary of numerical development indicators for Montenegro that could be easily represented in a dashboard format, although it may require additional formatting or filtering to make it more visually appealing and user-friendly.
